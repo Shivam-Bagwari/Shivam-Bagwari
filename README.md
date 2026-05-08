@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Shivam</h1>
+<h3 align="center">Full-Stack Developer in Progress 🚀</h3>
 
-<!--
-**Shivam-Bagwari/Shivam-Bagwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building projects, learning MERN, and documenting the journey.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌱 Currently learning **MERN + DSA**
+- 🚀 Building full-stack projects
+- 💻 Interested in backend & scalable systems
+- ⚡ Sharing coding journey on X/Twitter
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Full-stack MERN development
+- Backend engineering
+- DSA & problem solving
+- Building real-world projects
+
+---
+
+## 🌐 Connect With Me
+
+🐦 Twitter/X: https://x.com/shivam_bagwari
