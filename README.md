@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Shivam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20Backend%20Engineering&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+apps+%F0%9F%9A%80;Full-Stack+MERN+Developer;Learning+TypeScript+every+day+%E2%9C%A8;Backend+Engineering+%26+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
@@ -40,24 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-Bagwari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Bagwari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shivam-Bagwari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 | Status | Area |
@@ -66,18 +46,6 @@
 | 🟢 Active | Learning TypeScript in depth |
 | 🟢 Active | Backend engineering & system design |
 | 🔨 Building | Real-world production-ready projects |
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivam-Bagwari/Shivam-Bagwari/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> ⚠️ The snake animation requires a GitHub Actions workflow — see setup note below.
 
 ---
 
